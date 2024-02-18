@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Nishant Kumar
+- 👋 Hi, I’m Nishant Kumar {Dev}
 - 👀 I’m interested in Mern Stack Developer
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel Free to connect on Linkedin https://www.linkedin.com/in/nishant-kumar-2a64a5166/
-- 😄 Pronouns: Dev
 - ⚡ Fun fact: Chat Gpt
 
 <!---
